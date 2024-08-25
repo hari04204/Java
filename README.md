@@ -1,3 +1,3 @@
 # Java
 
-On the path to learning and mastering Java for Campus placements
+On the path to learning and mastering Java
